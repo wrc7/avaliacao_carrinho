@@ -1,23 +1,23 @@
 [
     {
         "id": 1,
-        "title": "Arroz",
+        "title": "Sensor termico",
         "image": "image-1572387681061.jpg",
-        "description": "Marca - WebService\r\n\\Tipo - Orgânico\r\n\\Peso - 1kg\r\n\\Denominação - Arroz",
-        "body": "R$ 6,67"
+        "description": "",
+        "body": ""
     },
     {
         "id": 2,
-        "title": "Feijão",
+        "title": "Sensor de luminosidade",
         "image": "image-1572387918748.jpg",
-        "description": "Marca - WebService\r\n\\Tipo - Preto\r\n\\Peso - 1kg\r\n\\Denominação - Feijão",
-        "body": "R$ 6,15"
+        "description": "",
+        "body": ""
     },
     {
         "id": 3,
-        "title": "Macarrão",
+        "title": "Sensor de presença",
         "image": "image-1572388132491.jpg",
-        "description": "Marca - WebService\r\n\\Linha - Aletria\r\n\\Peso - 500g\r\n\\Denominação - Macarrão",
-        "body": "R$ 3,69"
+        "description": "",
+        "body": ""
     }
 ]
